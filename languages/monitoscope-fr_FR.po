@@ -1,0 +1,89 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Project-Id-Version: Monitoscope\n"
+"POT-Creation-Date: 2019-03-10 13:17+0100\n"
+"PO-Revision-Date: 2019-03-10 13:19+0100\n"
+"Language-Team: ERALION.com <contact@eralion.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: monitocope.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: ERALION.com <contact@eralion.com>\n"
+"Language: fr_FR\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: monitocope.php:60
+msgid "Instructions to get Monitoscope working"
+msgstr "Instruction de mise en place Monitoscope"
+
+#: monitocope.php:60
+msgid ""
+"You need to subscribe to <a href=\"https://www.monitoscope.com\" target="
+"\"_blank\">https://www.monitoscope.com</a> to get an API key"
+msgstr ""
+"Vous devez vous inscrire sur <a href=\"https://www.monitoscope.com\" target="
+"\"_blank\">https://www.monitoscope.com</a> pour obtenir une clé API"
+
+#: monitocope.php:60
+msgid "Enter your API key in the box on this page a little bit below"
+msgstr "Entrez votre clé API dans le champ un peu plus bas sur cette page"
+
+#: monitocope.php:60
+msgid "Click on the link to add your site that appears"
+msgstr "Cliquez sur le lien qui apparait pour ajouter votre site"
+
+#: monitocope.php:61
+msgid "Your API key"
+msgstr "Votre clé API"
+
+#: monitocope.php:62
+msgid "Status"
+msgstr "Statut"
+
+#: monitocope.php:64
+msgid "ENABLED"
+msgstr "ACTIF"
+
+#: monitocope.php:68
+msgid ""
+"isn't added to your monitored websites on Monitoscope. <a href=\"admin.php?"
+"page=monitoscope_panel&addwebsite=1\">Click here to add it !</a>"
+msgstr ""
+"n'est pas ajouté à la liste de vos sites surveillés sur Monitoscope. <a "
+"href=\"admin.php?page=monitoscope_panel&addwebsite=1\">Cliquez ici pour "
+"l'ajouter !</a>"
+
+#: monitocope.php:74
+msgid "DISABLED"
+msgstr "INACTIF"
+
+#: monitocope.php:79
+msgid "You will be notified by mail on this e-mail if your website goes down:"
+msgstr ""
+"Vous serez alerté par mail sur cette adresse e-mail si votre site devient "
+"inaccessible:"
+
+#: monitocope.php:83
+msgid "Update"
+msgstr "Modifier"
+
+#. Plugin Name of the plugin/theme
+msgid "Monitoscope"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Get alerted when your website go down with Monitoscope."
+msgstr "Soyez prévenu si votre site est inaccessible avec Monitoscope."
+
+#. Author of the plugin/theme
+msgid "<a href=\"http://www.eralion.com\" target=\"_blank\">ERALION.com</a>"
+msgstr ""
